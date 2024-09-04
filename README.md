@@ -1,5 +1,10 @@
 # CRUD Product Management System
 
+## Here are the links for your CRUD Product Management System project:
+- **GitHub Repository:** [CRUD Product Management System](https://github.com/Hagar992/CRUD-Product-Management-System)
+- **Live Demo:** [CRUD Product Management System Demo](https://hagar992.github.io/CRUD-Product-Management-System/)
+### These links should help others access and explore your project directly.
+_______________________________________________________________________________
 ## Overview
 Welcome to the **CRUD Product Management System** repository! This project is a comprehensive web application designed to manage product data, featuring essential CRUD (Create, Read, Update, Delete) operations. The application is built using JavaScript, HTML, and CSS, and it offers a user-friendly interface for efficiently handling product information.
 
