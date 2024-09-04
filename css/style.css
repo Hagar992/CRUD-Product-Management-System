@@ -1,3 +1,21 @@
+
+@media (max-width: 768px) {
+    .HEAD {
+        font-size: 6vw; 
+    }
+
+    button {
+        font-size: 4vw; 
+    }
+
+    input::placeholder {
+        font-size: 4vw;
+    }
+
+    th, td {
+        font-size: 3.5vw; 
+    }
+}
 :root {
     --main-color: #408d8d;
 }
