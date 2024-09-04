@@ -1,4 +1,3 @@
-
 @media (max-width: 768px) {
     .HEAD {
         font-size: 6vw; 
@@ -6,6 +5,7 @@
 
     button {
         font-size: 4vw; 
+        padding: 2vw; 
     }
 
     input::placeholder {
@@ -14,8 +14,44 @@
 
     th, td {
         font-size: 3.5vw; 
+        padding: 1.5vw; 
+    }
+
+    #search, #create {
+        width: 100%; 
+    }
+
+    #searcht, #searchc {
+        width: 48%; 
+    }
+
+    .INPUT input, .OUTPUT input {
+        width: 100%;
+        height: 10vw;
+        font-size: 4vw;
+    }
+
+    .btnsearch {
+        height: auto;
+        flex-direction: column;
+        width: 100%; 
+        gap: 10px; 
+    }
+    .ALL {
+        padding: 10px;
+        width: 100%;
+        height: auto; 
+        margin: 0 auto;
+    }
+
+    table {
+        width: 100%;
+        font-size: 3.5vw;
+        display: block; 
+        overflow-x: auto; 
     }
 }
+
 :root {
     --main-color: #408d8d;
 }
